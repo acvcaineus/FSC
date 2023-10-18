@@ -1,6 +1,5 @@
 # Framework de Saúde Confiável (FSC)
 
-![Logo do FSC](logo.png)
 
 O Framework de Saúde Confiável (FSC) é uma ferramenta inovadora para ajudar na seleção de algoritmos de consenso em projetos de blockchain no contexto da saúde. Este repositório contém o código-fonte e a documentação relacionada ao FSC.
 
